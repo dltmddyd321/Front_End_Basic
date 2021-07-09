@@ -1,0 +1,22 @@
+/* 전체 선택 */
+* {
+    font-family: "Nanum Gothic";
+}
+
+/* 내부 선택 */
+ul li {
+    font-style: italic;
+}
+
+/* 동시 선택 */
+/* ~이면서 ~인 요소 선택 */
+li.key {
+    color: crimson;
+}
+
+/* 상태별 선택 */
+li:hover {
+    /* 마우스가 올라가진 상태 */
+    background-color: cyan;
+    color: white;
+}

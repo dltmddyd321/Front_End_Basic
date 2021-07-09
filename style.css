@@ -1,0 +1,19 @@
+body {
+    font-family: "Nanum Gothic";
+}
+
+/* 클래스 셀렉터 */
+.main {
+    color: red;
+}
+
+.sub {
+    color: blue;
+}
+
+/* 아이디 셀렉터 */
+#no {
+    color: coral ;
+    font-weight: bold;
+    font-size: 30px;
+}

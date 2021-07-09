@@ -1,0 +1,19 @@
+body{
+    font-family: "NanumGothic";
+}
+
+.male {
+    background-color: blue;
+}
+
+.female{
+    background-color: pink;
+}
+
+ul {
+    list-style: none;
+}
+
+#CEO {
+    background-color: #dfe0e1;
+}
