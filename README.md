@@ -16,3 +16,11 @@ Learn the basics of front-end.
 ### 2021_07_09_4
 
 <img width="459" alt="스크린샷 2021-07-09 오후 1 26 55" src="https://user-images.githubusercontent.com/73208493/125023865-91903380-e034-11eb-8a36-a606ed8b663f.png">
+
+### block VS inline
+
+<img width="526" alt="스크린샷 2021-07-11 오후 9 26 00" src="https://user-images.githubusercontent.com/73208493/125195969-e7b7cf00-e20c-11eb-81b8-8e797922830f.png">
+
+### position
+
+<img width="879" alt="스크린샷 2021-07-11 오후 9 55 12" src="https://user-images.githubusercontent.com/73208493/125195971-eab2bf80-e20c-11eb-80bd-a0869d20d1ff.png">
