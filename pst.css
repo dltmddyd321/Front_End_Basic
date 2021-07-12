@@ -1,0 +1,45 @@
+.container {
+    width: 100%;
+    height: 200vh;
+    background-color: greenyellow;
+    border: 4px solid black; 
+
+    position: relative;
+}
+
+.block{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(255, 147, 210);
+    margin: 5px;
+    border: 4px solid blue;
+    font-size: 30px;
+}
+
+#a {
+    /* static = 기본 값 */
+    position: static;
+}
+
+#b {
+    position: relative;
+    top: 30px;
+    left: 30px;
+}
+
+#c {
+    position: absolute;
+    top: 50px;
+    left: 100px;
+}
+
+#d {
+    position: fixed;
+    bottom: 5px;
+    right: 5px;
+}
+
+#e {
+    position: sticky;
+    top: 0px;
+}
