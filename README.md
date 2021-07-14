@@ -17,10 +17,22 @@ Learn the basics of front-end.
 
 <img width="459" alt="스크린샷 2021-07-09 오후 1 26 55" src="https://user-images.githubusercontent.com/73208493/125023865-91903380-e034-11eb-8a36-a606ed8b663f.png">
 
-### block VS inline
+### block VS inline.html
 
 <img width="526" alt="스크린샷 2021-07-11 오후 9 26 00" src="https://user-images.githubusercontent.com/73208493/125195969-e7b7cf00-e20c-11eb-81b8-8e797922830f.png">
 
-### position
+### position.html
 
 <img width="879" alt="스크린샷 2021-07-11 오후 9 55 12" src="https://user-images.githubusercontent.com/73208493/125195971-eab2bf80-e20c-11eb-80bd-a0869d20d1ff.png">
+
+### google2.html
+
+<img width="1348" alt="스크린샷 2021-07-14 오전 11 39 13" src="https://user-images.githubusercontent.com/73208493/125556796-34f29e88-e01b-48c8-a8f5-c829734b0ecc.png">
+
+### cssflex.html
+
+<img width="833" alt="스크린샷 2021-07-14 오후 12 15 16" src="https://user-images.githubusercontent.com/73208493/125556800-7c70951b-2711-455f-9c18-4b68b5eff202.png">
+
+### bootstrap.html
+
+<img width="698" alt="스크린샷 2021-07-14 오후 12 27 13" src="https://user-images.githubusercontent.com/73208493/125556802-0d6154d3-381d-40f0-a82b-16ea198859f0.png">
