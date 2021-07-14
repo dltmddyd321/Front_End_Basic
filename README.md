@@ -36,3 +36,13 @@ Learn the basics of front-end.
 ### bootstrap.html
 
 <img width="698" alt="스크린샷 2021-07-14 오후 12 27 13" src="https://user-images.githubusercontent.com/73208493/125556802-0d6154d3-381d-40f0-a82b-16ea198859f0.png">
+
+###usecompo.html
+
+<img width="681" alt="스크린샷 2021-07-14 오후 7 51 09" src="https://user-images.githubusercontent.com/73208493/125613602-0a7806ab-f085-4453-8c61-d2ca58ee29da.png">
+
+###grid.html
+
+<img width="993" alt="스크린샷 2021-07-14 오후 8 19 24" src="https://user-images.githubusercontent.com/73208493/125613610-859f81e2-c053-4fb6-950b-5b6095363455.png">
+
+
